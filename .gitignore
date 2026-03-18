@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Data (important ❗)
+data/
+
+# Outputs
+outputs/
+
+# Large files
+*.csv
+*.tsv
+*.tab
+
+# OS
+.DS_Store
