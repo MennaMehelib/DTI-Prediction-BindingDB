@@ -9,7 +9,7 @@ env/
 # VS Code
 .vscode/
 
-# Data (important ❗)
+# Data (important )
 data/
 
 # Outputs
@@ -22,3 +22,6 @@ outputs/
 
 # OS
 .DS_Store
+# Trained models
+model.pkl
+scaler.pkl
